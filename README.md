@@ -37,7 +37,7 @@ Each SQL file in this repository represents a specific assignment. You can downl
 Feel free to fork this repository if you're interested in using these SQL scripts as a base for further exploration or improvement. Suggestions and improvements are welcome via pull requests.
 
 ## Author
-- Your Name
+- Owais Ashraf
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
